@@ -1,0 +1,22 @@
+[
+  {
+    "price": 777.0,
+    "name": "Joao"
+  },
+  {
+    "price": 888.0,
+    "name": "Maria"
+  },
+  {
+    "price": 991.0,
+    "name": "Paulo"
+  },
+  {
+    "price": 0.77,
+    "name": "Cesar"
+  },
+  {
+    "price": 1.2,
+    "name": "Aquiles"
+  }
+]

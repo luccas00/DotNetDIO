@@ -1,0 +1,52 @@
+﻿@model ProjetoMVC.Entities.Investimento
+
+@{
+    ViewData["Title"] = "Deletar Investimento";
+}
+
+<h1>Deseja Deletar esse Investimento ?</h1>
+<h3 style="color: red;">Operação Irreversivel</h3>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Nome)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(x => x.Nome)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Montante)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(x => x.Montante)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Taxa)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(x => x.Taxa)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.DataInicio)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(x => x.DataInicio)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.DataFim)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(x => x.DataFim)
+    </dl>
+</div>
+<br>
+<div>
+    <a asp-action="Index">Voltar</a>
+</div>
+
+<div style="position: absolute; bottom: 20%">
+    <form asp-action="Deletar">
+        <input type="submit" value="Deletar" class="btn btn-danger" />
+    </form>
+</div>

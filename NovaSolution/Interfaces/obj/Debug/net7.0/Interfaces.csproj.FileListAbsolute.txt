@@ -1,0 +1,12 @@
+C:\DIODotNet\NovaSolution\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\DIODotNet\NovaSolution\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\DIODotNet\NovaSolution\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\DIODotNet\NovaSolution\Interfaces\obj\Debug\net7.0\Interfaces.csproj.AssemblyReference.cache
+C:\DIODotNet\NovaSolution\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIODotNet\NovaSolution\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\DIODotNet\NovaSolution\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\DIODotNet\NovaSolution\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\DIODotNet\NovaSolution\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\DIODotNet\NovaSolution\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\DIODotNet\NovaSolution\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\DIODotNet\NovaSolution\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll

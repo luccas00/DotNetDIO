@@ -1,0 +1,12 @@
+C:\DIODotNet\NovaSolution\ClassesBancarias\bin\Debug\net7.0\ClassesBancarias.deps.json
+C:\DIODotNet\NovaSolution\ClassesBancarias\bin\Debug\net7.0\ClassesBancarias.dll
+C:\DIODotNet\NovaSolution\ClassesBancarias\bin\Debug\net7.0\ClassesBancarias.pdb
+C:\DIODotNet\NovaSolution\ClassesBancarias\obj\Debug\net7.0\ClassesBancarias.csproj.AssemblyReference.cache
+C:\DIODotNet\NovaSolution\ClassesBancarias\obj\Debug\net7.0\ClassesBancarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIODotNet\NovaSolution\ClassesBancarias\obj\Debug\net7.0\ClassesBancarias.AssemblyInfoInputs.cache
+C:\DIODotNet\NovaSolution\ClassesBancarias\obj\Debug\net7.0\ClassesBancarias.AssemblyInfo.cs
+C:\DIODotNet\NovaSolution\ClassesBancarias\obj\Debug\net7.0\ClassesBancarias.csproj.CoreCompileInputs.cache
+C:\DIODotNet\NovaSolution\ClassesBancarias\obj\Debug\net7.0\ClassesBancarias.dll
+C:\DIODotNet\NovaSolution\ClassesBancarias\obj\Debug\net7.0\refint\ClassesBancarias.dll
+C:\DIODotNet\NovaSolution\ClassesBancarias\obj\Debug\net7.0\ClassesBancarias.pdb
+C:\DIODotNet\NovaSolution\ClassesBancarias\obj\Debug\net7.0\ref\ClassesBancarias.dll

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<ProjetoMVC.Entities.Cliente>
+
+@{
+    ViewData["Title"] = "Lista de Clientes";
+}
+
+<h2>Index</h2>
+
+<p>Hello from our View Template!</p>
+
+<h2>Clientes</h2>
+
+<p>
+    <a asp-action="Criar">Novo Cliente</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CPF)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.CPF)
+                </td>
+                <td>
+                    <a asp-action="Editar" asp-route-Id="@item.Id">Editar</a>
+                    <a asp-action="Detalhes" asp-route-Id="@item.Id">Detalhes</a>
+                    <a asp-action="Deletar" asp-route-Id="@item.Id">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,46 @@
+﻿@model ProjetoMVC.Entities.Investimento
+@{
+    ViewData["Title"] = "Criar Investimento";
+}
+
+<h1>Criar Novo Investimento</h1>
+
+<hr/>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Criar">
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Montante" class="control-label"></label>
+                <input asp-for="Montante" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Taxa" class="control-label"></label>
+                <input asp-for="Taxa" class="form-control" />
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="DataInicio" class="control-label"></label>
+                <input type="datetime-local" asp-for="DataInicio" class="form-control" />
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="DataFim" class="control-label"></label>
+                <input type="datetime-local" asp-for="DataFim" class="form-control" />
+            </div>
+            <br>
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn btn-primary" />
+            </div>
+            <br>
+        </form>
+    </div>
+</div>
+<br>
+<div>
+    <a asp-action="Index">Voltar</a>
+</div>

@@ -1,0 +1,12 @@
+C:\DIODotNet\SolutionSQL\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\DIODotNet\SolutionSQL\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\DIODotNet\SolutionSQL\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\DIODotNet\SolutionSQL\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.AssemblyReference.cache
+C:\DIODotNet\SolutionSQL\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIODotNet\SolutionSQL\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\DIODotNet\SolutionSQL\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\DIODotNet\SolutionSQL\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\DIODotNet\SolutionSQL\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\DIODotNet\SolutionSQL\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\DIODotNet\SolutionSQL\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\DIODotNet\SolutionSQL\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll

@@ -1,0 +1,43 @@
+﻿@model ProjetoMVC.Entities.Investimento
+
+@{
+    ViewData["Title"] = "Detalhes do Investimento";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Nome)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(x => x.Nome)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Montante)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(x => x.Montante)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Taxa)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(x => x.Taxa)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.DataInicio)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(x => x.DataInicio)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.DataFim)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(x => x.DataFim)
+    </dl>
+</div>
+<a asp-action="Editar" asp-route-id="@Model.Id">Editar</a>
+<a asp-action="Index">Voltar</a>

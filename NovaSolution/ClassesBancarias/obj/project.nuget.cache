@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WEWvkTgdRwIzNwQaYI8J/9/xps/ddTzzqQuXeLxqU80XLQ6lQgEqGAKZF8Wz3fcgDcZ/ldv6t52heESXWwbokQ==",
+  "success": true,
+  "projectFilePath": "C:\\DIODotNet\\NovaSolution\\ClassesBancarias\\ClassesBancarias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LuccasCarneiro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

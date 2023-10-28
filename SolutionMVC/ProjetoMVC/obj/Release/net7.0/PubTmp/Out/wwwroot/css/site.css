@@ -1,0 +1,76 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.move-to-bottom {
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    text-align: center;
+}
+
+.move-to-bottom-rigth {
+    position: absolute;
+    bottom: 50px;
+    right: 0;
+    text-align: center;
+}
+
+.move-to-bottom-center {
+    position: absolute;
+    bottom: 30%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.investimento-class {
+    position: absolute;
+    bottom: 30%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.cliente-class {
+    position: absolute;
+    bottom: 30%;
+    left: 25%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.banco-class {
+    position: absolute;
+    bottom: 30%;
+    left: 75%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.popularInvestimentos {
+    position: absolute;
+    bottom: 85%;
+    left: 85%;
+    transform: translateX(-50%);
+    text-align: center;
+}

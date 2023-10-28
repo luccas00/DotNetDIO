@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "paorB40LAwc1Ii+fOTk1bjLkI6R3x4PfR04ynEGMmlFFUfyT1g5FwC/i0eWrFfV21U7h/ueyNN+AQqW9wG8V7Q==",
+  "success": true,
+  "projectFilePath": "C:\\DIODotNet\\SolutionSQL\\Biblioteca\\Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LuccasCarneiro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

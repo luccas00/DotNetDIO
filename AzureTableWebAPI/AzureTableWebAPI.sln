@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureTableWebAPI", "AzureTableWebAPI.csproj", "{F5E1778A-757D-4914-9081-29E32DAF4055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E1778A-757D-4914-9081-29E32DAF4055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E1778A-757D-4914-9081-29E32DAF4055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E1778A-757D-4914-9081-29E32DAF4055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E1778A-757D-4914-9081-29E32DAF4055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BF4B65B-3094-4563-9EB2-D394B959A32F}
+	EndGlobalSection
+EndGlobal

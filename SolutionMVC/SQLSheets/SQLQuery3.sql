@@ -1,0 +1,5 @@
+SELECT TOP (10) [Id]
+      ,[Nome]
+      ,[Telefone]
+      ,[Ativo]
+  FROM [Agenda].[dbo].[Contatos]

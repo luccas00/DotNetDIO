@@ -1,0 +1,15 @@
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\DIODotNet\ModuloTestesUnitariosXUnit\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll

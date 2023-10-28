@@ -1,0 +1,12 @@
+C:\DIODotNet\NovaSolution\Common\bin\Debug\net7.0\Common.deps.json
+C:\DIODotNet\NovaSolution\Common\bin\Debug\net7.0\Common.dll
+C:\DIODotNet\NovaSolution\Common\bin\Debug\net7.0\Common.pdb
+C:\DIODotNet\NovaSolution\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+C:\DIODotNet\NovaSolution\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIODotNet\NovaSolution\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+C:\DIODotNet\NovaSolution\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+C:\DIODotNet\NovaSolution\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+C:\DIODotNet\NovaSolution\Common\obj\Debug\net7.0\Common.dll
+C:\DIODotNet\NovaSolution\Common\obj\Debug\net7.0\refint\Common.dll
+C:\DIODotNet\NovaSolution\Common\obj\Debug\net7.0\Common.pdb
+C:\DIODotNet\NovaSolution\Common\obj\Debug\net7.0\ref\Common.dll

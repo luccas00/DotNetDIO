@@ -1,0 +1,67 @@
+﻿@model IEnumerable<ProjetoMVC.Entities.Investimento>
+
+@{
+    ViewData["Title"] = "Lista de Investimentos";
+}
+
+@*<form method="post" asp-action="AdicionarNovo">
+    <div class="popularInvestimentos">
+        <input type="submit" class="btn btn-primary" value="Criar Novo" />
+    </div>
+</form>*@
+
+<h2>Index</h2>
+
+<p>Hello from our View Template!</p>
+   
+<h2>Investimentos</h2>
+
+<p>
+    <a asp-action="Criar">Novo Investimento</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Montante)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Taxa)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            @if(item.Ativo.Equals(true))
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(model => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.Montante)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.Taxa)
+                    </td>
+                    <td>
+                        <a asp-action="Editar" asp-route-Id="@item.Id">Editar</a>
+                        <a asp-action="Detalhes" asp-route-Id="@item.Id">Detalhes</a>
+                        <a asp-action="Deletar" asp-route-Id="@item.Id">Deletar</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
